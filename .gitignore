@@ -1,5 +1,8 @@
 # Personal Setting
+READMEtoME.md
 public/panorama/
+api/comvis/.venv/
+api/comvis/temp/
 
 # dependencies
 /node_modules
