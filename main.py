@@ -191,7 +191,7 @@ def main(image_name, streetview_url):
   pablo_diff(image_name, hue_t, feat_ratio, dist_px_t, feat_point_r)
 
 
-# テスト用
+# テスト用 I/O
 from dotenv import load_dotenv
 load_dotenv
 import os
